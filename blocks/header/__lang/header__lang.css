@@ -1,17 +1,17 @@
-.header_lang {
+.header__lang {
     display: flex;
     list-style: none;
     gap: 18px;
     margin: 0;
     padding: 0;
     font-size: 24px;
-    line-height: 1.17;
+    line-height: 28px;
 }
 
-@media screen and (max-width: 576px) {
-    .header_lang {
+@media screen and (max-width: 768px) {
+    .header__lang {
         font-size: 18px;
-        line-height: 1.11;
+        line-height: 28px;
         padding-bottom: 8px;
     }
 }
