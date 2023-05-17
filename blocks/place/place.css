@@ -4,10 +4,7 @@
     column-gap: 40px;
     row-gap: 48px;
     padding-top: 80px;
-}
-
-.place:last-child {
-    padding-top: 0;
+    margin: 0;
 }
 
 @media screen and (max-width: 1024px) {
