@@ -9,3 +9,10 @@
         font-size: calc((100vw - 576px)/(768 - 576) * (14 - 12) + 12px);
     }
 }
+
+@media screen and (max-width: 576px) {
+    .footer__copyright {
+        font-size: 14px;
+        line-height: 1;
+    }
+}

@@ -1,8 +1,12 @@
 .place__paragraph {
     font-size: 18px;
-    line-height: calc(29 / 18 * 100%);
+    line-height: 1.63;
     margin: 0;
     padding-bottom: 26px;
+}
+
+.place__paragraph:last-of-type {
+    padding: 0;
 }
 
 

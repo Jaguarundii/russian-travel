@@ -2,7 +2,7 @@
     position: relative;
     max-width: 360px;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 1.22;
     text-align: center;
     margin: 0;
     padding-top: 32px;
@@ -11,7 +11,7 @@
 @media screen and (max-width: 576px) {
     .cover__subtitle {
         font-size: 14px;
-        line-height: 14px;
+        line-height: 1.14;
         max-width: 288px;
         padding-top: 16px;
     }
